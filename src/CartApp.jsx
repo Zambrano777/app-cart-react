@@ -18,6 +18,7 @@ export const CartApp = () => {
           handlerAddProductCart={handlerAddProductCart}
           handlerDeleteProduct={handlerDeleteProduct}
         />
+        
       </div>
     </>
   );
